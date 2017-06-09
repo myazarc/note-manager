@@ -1,0 +1,23 @@
+{
+  "name": "note-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "pretty-bytes": "latest"
+  },
+  "scripts": {
+    "start": "electron main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myazarc/note-manager.git"
+  },
+  "author": "Mustafa Yazar <myazarc@gmail.com> (http://myazarc.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/myazarc/note-manager/issues"
+  },
+  "homepage": "https://github.com/myazarc/note-manager#readme"
+}
